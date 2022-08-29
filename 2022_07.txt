@@ -12,6 +12,31 @@
 Change Log
 
 
+2022/07/30 #1 : 2022/08/29
+
+
+BUGFIX
+
+
+	floss/zlib.c
+		deflate.c and tree.c
+			OLD : crash
+			NEW : revert to old version
+			[!] : many warnings are revived
+
+	Nonnon Paint
+		Save : PNG
+			OLD : crash
+			NEW : fixed
+			[!] : Mac supported code causes
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/07/30
 
 
